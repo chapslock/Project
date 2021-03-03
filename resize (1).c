@@ -17,7 +17,7 @@ int main(){
 	int i;
 	for(i=0; i<n1; i++){
 		//Set each value in a1 to 100
-		/*Fill in*/=100
+		a1[i]=100
 		
 		//Print each element out (to make sure things look right)
 		printf("%d ",/*Fill in*/ );

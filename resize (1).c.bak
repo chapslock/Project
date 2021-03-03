@@ -12,7 +12,8 @@ int main(){
 	scanf("%d",&n1);
 
 	//Create a new array of n1 ints
-	int* a1 = /* Fill in*/
+	/* Fill in*/
+	int* a1 = (int*)malloc(sizeof(int));
 	int i;
 	for(i=0; i<n1; i++){
 		//Set each value in a1 to 100
